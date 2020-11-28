@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gitreact/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/gitreact/static/js/main.a9646a77.chunk.js",
+    "main.js.map": "/gitreact/static/js/main.a9646a77.chunk.js.map",
+    "runtime-main.js": "/gitreact/static/js/runtime-main.d0dfd152.js",
+    "runtime-main.js.map": "/gitreact/static/js/runtime-main.d0dfd152.js.map",
+    "static/js/2.19619222.chunk.js": "/gitreact/static/js/2.19619222.chunk.js",
+    "static/js/2.19619222.chunk.js.map": "/gitreact/static/js/2.19619222.chunk.js.map",
+    "static/js/3.31935c8f.chunk.js": "/gitreact/static/js/3.31935c8f.chunk.js",
+    "static/js/3.31935c8f.chunk.js.map": "/gitreact/static/js/3.31935c8f.chunk.js.map",
+    "index.html": "/gitreact/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/gitreact/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.19619222.chunk.js.LICENSE.txt": "/gitreact/static/js/2.19619222.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gitreact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0dfd152.js",
+    "static/js/2.19619222.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a9646a77.chunk.js"
+  ]
+}
